@@ -1,0 +1,2 @@
+include ':app', ':vehiclemgrui'
+project(':vehiclemgrui').projectDir = new File(rootDir, "./vehiclemgrui")

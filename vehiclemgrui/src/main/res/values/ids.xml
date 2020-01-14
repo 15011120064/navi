@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="LoadingMoreTv" type="id" />
+    <item name="ManagementVehicle" type="id"/>
+    <item name="FirstVehicle" type="id"/>
+    <item name="SecondVehicle" type="id"/>
+    <item name="ThirdVehicle" type="id"/>
+    <item name="FourthVehicle" type="id"/>
+    <item name="fifthVehicle" type="id"/>
+    <item name="sixthVehicle" type="id"/>
+    <item name="seventhVehicle" type="id"/>
+    <item name="eighthVehicle" type="id"/>
+    <item name="ninthVehicle" type="id"/>
+    <item name="tenthVehicle" type="id"/>
+
+
+</resources>

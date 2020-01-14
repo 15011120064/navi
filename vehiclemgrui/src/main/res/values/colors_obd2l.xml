@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    
+	<color name="obd2l_toast_my_fill">#aaff8000</color>
+	<color name="obd2l_toast_my_frame">#fffe4800</color>
+	
+    <color name="obd2l_white">#ffffffff</color> 
+ 
+</resources>

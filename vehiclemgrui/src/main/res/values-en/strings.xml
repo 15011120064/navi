@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+    <string name="ATM">Bank</string>
+    <string name="BleAssistDeling">Delete...</string>
+    <string name="BleAssistBuy">Buy</string>
+    <string name="app_name">GeekOBD</string>
+
+</resources>

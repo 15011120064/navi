@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="segment_item_padding_top">5dp</dimen>
+    <dimen name="segment_item_padding_bottom">5dp</dimen>
+    <dimen name="iv_user_portrait_margin_top">10dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="carLastLocationInfuwindow_x">50dp</dimen>
+    <dimen name="carLastLocationInfuwindow_y">40dp</dimen>
+    <dimen name="title_text_size">15sp</dimen>
+    <dimen name="font_20">10sp</dimen>
+    <dimen name="font_24">12sp</dimen>
+    <dimen name="font_28">14sp</dimen>
+    <dimen name="font_30">15sp</dimen>
+    <dimen name="font_32">16sp</dimen>
+    <dimen name="font_16">8sp</dimen>
+    <dimen name="font_22">11sp</dimen>
+    <dimen name="font_40">20sp</dimen>
+    <dimen name="font_36">18sp</dimen>
+    <dimen name="font_44">22sp</dimen>
+    <dimen name="font_48">24sp</dimen>
+    <dimen name="font_52">26sp</dimen>
+    <dimen name="font_56">28sp</dimen>
+    <dimen name="font_64">32sp</dimen>
+    <dimen name="font_72">36sp</dimen>
+    <dimen name="font_84">42sp</dimen>
+    <dimen name="font_92">46sp</dimen>
+    <dimen name="font_96">48sp</dimen>
+    <dimen name="font_104">52sp</dimen>
+    <dimen name="font_136">68sp</dimen>
+
+    <dimen name="dimen_0.5">0.5dp</dimen>
+    <dimen name="dimen_1">1dp</dimen>
+    <dimen name="dimen_2">2dp</dimen>
+    <dimen name="dimen_3">3dp</dimen>
+    <dimen name="dimen_5">5dp</dimen>
+    <dimen name="dimen_6">6dp</dimen>
+    <dimen name="dimen_8">8dp</dimen>
+    <dimen name="dimen_10">10dp</dimen>
+    <dimen name="dimen_12">12dp</dimen>
+    <dimen name="dimen_15">15dp</dimen>
+    <dimen name="dimen_16">16dp</dimen>
+    <dimen name="dimen_18">18dp</dimen>
+    <dimen name="dimen_20">20dp</dimen>
+    <dimen name="dimen_22">22dp</dimen>
+    <dimen name="dimen_24">24dp</dimen>
+    <dimen name="dimen_25">25dp</dimen>
+    <dimen name="dimen_26">26dp</dimen>
+    <dimen name="dimen_30">30dp</dimen>
+    <dimen name="dimen_32">32dp</dimen>
+    <dimen name="dimen_36">36dp</dimen>
+    <dimen name="dimen_40">40dp</dimen>
+    <dimen name="dimen_44">44dp</dimen>
+    <dimen name="dimen_46">46dp</dimen>
+    <dimen name="dimen_48">48dp</dimen>
+    <dimen name="dimen_50">50dp</dimen>
+    <dimen name="dimen_56">56dp</dimen>
+    <dimen name="dimen_60">60dp</dimen>
+    <dimen name="dimen_64">64dp</dimen>
+    <dimen name="dimen_70">70dp</dimen>
+    <dimen name="dimen_76">76dp</dimen>
+    <dimen name="dimen_61">61dp</dimen>
+    <dimen name="dimen_80">80dp</dimen>
+    <dimen name="dimen_85">90dp</dimen>
+    <dimen name="dimen_100">100dp</dimen>
+    <dimen name="dimen_120">120dp</dimen>
+    <dimen name="dimen_140">140dp</dimen>
+    <dimen name="dimen_200">200dp</dimen>
+    <dimen name="dimen_250">250dp</dimen>
+    <dimen name="dimen_300">300dp</dimen>
+    <dimen name="dimen_180">180dp</dimen>
+    <dimen name="dimen_210">210dp</dimen>
+    <dimen name="dimen_280">280dp</dimen>
+    <dimen name="dimen_400">400dp</dimen>
+    <dimen name="dimen_306">306dp</dimen>
+
+    <dimen name="dimen_310">316dp</dimen>
+    <dimen name="space">10dp</dimen>
+
+    <dimen name="LoadingMoreFooterheight">50dp</dimen>
+    <dimen name="textandiconmargin">10dp</dimen>
+
+    <dimen name="margin_xlarge">24dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="margin_mid">8dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_tour_item">12dp</dimen>
+    <dimen name="margin_Left_tittle">16dp</dimen>
+    <dimen name="margin_Left_context">72dp</dimen>
+    <dimen name="margin_right_context">16dp</dimen>
+
+    <dimen name="navi_loc_in_map_tittle_ry_h">18dp</dimen>
+    <dimen name="navi_loc_in_map_btn_ly_h">25dp</dimen>
+    <dimen name="navi_loc_in_map_btn_image_w">16dp</dimen>
+    <dimen name="navi_loc_in_map_btn_image_h">16dp</dimen>
+
+
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="tours_item_height">180dp</dimen>
+    <dimen name="tours_item_running_height">184dp</dimen>
+    <dimen name="tours_item_nologin1_height">144dp</dimen>
+    <dimen name="tours_item_nologin5_height">180dp</dimen>
+    <dimen name="tours_map_height">210dp</dimen>
+    <dimen name="tour_item_nologin5_height">150dp</dimen>
+    <dimen name="tour_bar_line_width">4dp</dimen>
+    <dimen name="tour_bar_point_diameter">16dp</dimen>
+    <dimen name="tour_item_height">144dp</dimen>
+    <dimen name="tour_item_head_width">60dp</dimen>
+    <dimen name="tour_item_bar_margin_left">68dp</dimen>
+    <dimen name="tour_item_step_bar_width">16dp</dimen>
+    <dimen name="tour_item_info_height">100dp</dimen>
+    <dimen name="tour_info_icon_diameter">20dp</dimen>
+    <dimen name="tour_info_icon_diameter_large">24dp</dimen>
+    <dimen name="tour_item1_height">40dp</dimen>
+    <dimen name="tour_item1_No_height">0dp</dimen>
+    <dimen name="tour_item2_height">150dp</dimen>
+    <dimen name="tour_item3_height">200dp</dimen>
+    <dimen name="tour_vehicle_margin_top">26dp</dimen>
+    <dimen name="tour_vehicle_margin_bottom">72dp</dimen>
+    <dimen name="tour_vehicle_w">24dp</dimen>
+    <dimen name="tour_vehicle_h">72dp</dimen>
+
+
+
+
+    <dimen name="font_size_normal">16sp</dimen>
+    <dimen name="font_size_middle">14sp</dimen>
+    <dimen name="font_size_small">12sp</dimen>
+    <dimen name="font_size_so_small">10sp</dimen>
+    <dimen name="font_size_large">24sp</dimen>
+    <dimen name="font_size_small_large">22sp</dimen>
+
+    <dimen name="quicklu_microphone_h">80dp</dimen>
+    <dimen name="quicklu_microphone_w">80dp</dimen>
+
+    <dimen name="nav_userPortrait_h">60dp</dimen>
+    <dimen name="nav_userPortrait_w">60dp</dimen>
+
+
+
+    <dimen name="meterRPMtvSize">26sp</dimen>
+    <dimen name="meterFueltvSize">35sp</dimen>
+    <dimen name="meterRPMtvUnitSize">12sp</dimen>
+    <dimen name="meterAVGSpeedSize">40sp</dimen>
+    <dimen name="meterMoneySpendSize">45sp</dimen>
+    <dimen name="meterTime">40sp</dimen>
+    <dimen name="meterMileageSize">35sp</dimen>
+    <dimen name="meterSpeedSize">60sp</dimen>
+    <dimen name="meterUnit">12sp</dimen>
+    <dimen name="meterDesc">18sp</dimen>
+    <dimen name="meterunit">14sp</dimen>
+
+</resources>

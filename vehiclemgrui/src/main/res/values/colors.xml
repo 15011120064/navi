@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffffff</color>
+    <color name="whitegray">#ffeeeeee</color>
+    <color name="gray">#D8D6D6</color>
+    <color name="gray_item">#f5f6f6</color>
+
+    <color name="font_white">#EEFFFFFF</color>
+    <color name="font_black">#FF000000</color>
+    <color name="grayIconTint">#727272</color>
+    <color name="font_gray">#BB888888</color>
+    <color name="SlideBarGray">#FF666666</color>
+    <color name="blackgray">#ff959595</color>
+    <color name="newblackgray">#ffe9e9e9</color>
+    <color name="blacklightgray">#ff555555</color>
+    <color name="black">#ff000000</color>
+    <color name="red">#ffff0000</color>
+    <color name="hyacinthdr">#ffffab3e</color>
+    <color name="greendr">#ff00FF00</color>
+    <color name="green">#ff189F66</color>
+    <color name="hyacinth">#ffff8000</color> <!-- 橘红色 -->
+    <color name="weakblue">#ff4bC1D2</color> <!-- 淡蓝色 -->
+    <color name="textGreen">#ff00FFF6</color>
+    <color name="textSafeColor">#ff28FF28</color>
+    <color name="textBlue">#FF036EFF</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="heavygreen">#ff29A409</color>
+    <color name="main_tab_text_normal">#ffff8000</color>
+    <color name="main_tab_text_focus">#ff4bC1D2</color>
+    <color name="toast_my_fill">#aaff8000</color>
+    <color name="toast_my_frame">#fffe4800</color>
+    <color name="menu_activity_bk">#80000000</color>
+    <color name="btn_green">#ff009F00</color>
+    <color name="btn_green_pressed">#ff005B00</color>
+    <color name="btn_green_year">#ff077032</color>
+    <color name="btn_green_year_pressed">#ff005B00</color>
+    <color name="btn_blue">#ff0080ff</color>
+    <color name="btn_blue_pressed">#ff003A75</color>
+    <color name="btn_weakblue">#ff4bC1D2</color>
+    <color name="btn_weakblue_pressed">#ff8bF1F2</color>
+    <color name="btn_red">#ffff0000</color>
+    <color name="btn_red_pressed">#ffc90303</color>
+    <color name="menu_bkg">#ffF2F6F9</color>
+    <color name="list_span_line">#ffAAAAAA</color>
+    <color name="list_item_sel">#ffB7F2FB</color>
+    <color name="list_item_common">#00000000</color>
+    <color name="message_read">#ff5E5B5B</color>
+    <color name="message_unread">#ff000000</color>
+    <color name="toast_warn_tishi0_text">#FF000000</color>
+    <color name="toast_warn_tishi1_text">#FF000000</color>
+    <color name="toast_warn_warn0_text">#fff96706</color>
+    <color name="toast_warn_warn1_text">#fffd0200</color>
+
+    <color name="tour_track_weight0">#ffDD2D1E</color>
+    <color name="tour_track_weight1">#ffFF6F42</color>
+    <color name="tour_track_weight2">#ffF9C434</color>
+    <color name="tour_track_weight3">#ff69932C</color>
+    <color name="tour_track_weight4">#ff1B9DA9</color>
+    <color name="tour_track_weight5">#ff2973D7</color>
+
+    <color name="tour_track_weight0_0">#FF45AAE1</color>
+    <color name="tour_track_weight1_0">#FF189F66</color>
+    <color name="tour_track_weight2_0">#FFFF8000</color>
+    <color name="tour_track_weight3_0">#FF804662</color>
+    <color name="tour_track_weight4_0">#FFFF0000</color>
+    <color name="tour_track_weight5_0">#FF801D74</color>
+    <color name="tour_track_frame">#ff7a7a7a</color>
+    <color name="home_bottom_bg">#ff4bC1D2</color> <!-- 首页橙色 -->
+    <color name="indicator_color">#ff4bC1D2</color> <!-- 橙色 -->
+    <color name="reset_text_color">#ff4bC1D2</color> <!-- 橙色 -->
+    <color name="data_text_color">#ff4bC1D2</color> <!-- 橙色 -->
+    <color name="edittext_color">#ff4bC1D2</color> <!-- 橙色 -->
+    <color name="button_color">#ff4bC1D2</color> <!-- 橙色 -->
+    <color name="button_color_pressed">#77ef8b19</color> <!-- 有透明度橙色 -->
+
+    <color name="dr_pie_stat_0">#FF45AAE1</color>
+    <color name="dr_pie_stat_1">#FF189F66</color>
+    <color name="dr_pie_stat_2">#FFFF8000</color>
+    <color name="dr_pie_stat_3">#FF804662</color>
+    <color name="dr_pie_stat_4">#FFFF0000</color>
+    <color name="dr_pie_stat_5">#FF801D74</color>
+
+    <color name="sp_center_bg">#e8e8e8</color>
+    <color name="sp_center_item_bg">#f7f7f7</color>
+    <color name="tv_edit_user_color">#54686b</color>
+    <color name="pull_refresh_textview">#000000</color>
+    <color name="gold">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="warntooltip">#00A4A4A4</color>
+
+    <color name="color_text_yellow">#f8c514</color>
+    <color name="color_text_red">#eb037f</color>
+    <color name="color_text_blue">#008FFD</color>
+    <color name="color_text_gray">#484848</color>
+
+    <color name="color_route_frame">#484848</color>
+    <color name="color_route">#FFD4F7DC</color>
+    <color name="color_route_cur">#ff21DA7E</color>
+
+    <color name="rippelColor">#FF2222</color>
+
+    <color name="recognize_mask_view">#99000000</color>
+    <color name="naviSettingItemTextColor">#FF0091FF</color>
+    <color name="ry_botoom_line">#FFC3C3C3</color>
+
+    <color name="grey">#ebebeb</color>
+
+
+    <color name="header_toast_bg">#ccebfc</color>
+    <color name="header_toast">#024ca1</color>
+    <color name="header_toast_line">#abdaf4</color>
+    <color name="offline_down_title">#909090</color>
+    <color name="offline_head_font">#FFFFFF</color>
+    <color name="gary">#898989</color>
+    <color name="taobao_black">#333333</color>
+    <color name="offline_down_size">#777777</color>
+    <color name="gray_lite">#c5c5c5</color>
+    <color name="progress_background">#ededed</color>
+    <color name="itemlist">#f4f4f4</color>
+    <color name="act_background">#efefef</color>
+    <color name="phone_bg">#f6f6f6</color>
+    <color name="translucent">#66000000</color>
+
+
+    <color name="segment_text_color_normal">#ff74888B</color>
+    <color name="segment_text_color_select">#ff42A5B3</color>
+    <color name="diag_viewpageBackground">#ffF6FDFD</color>
+    <color name="diag_diagTC_clear">#ffF06e35</color>
+
+    <color name="segment_background">#FFEBEFEF</color>
+    <color name="control_tab_text_color">#FF74888b</color>
+    <color name="control_tab_text_sel_color">#FF42a5b3</color>
+
+    <color name="dr_bottom_textcolor">#FF74888b</color>
+    <color name="dr_full_bottom_textcolor">#FF74888b</color>
+    <color name="user_login_text_color">#FF54686B</color>
+    <color name="ReportBgColor">#FF44B2C2</color>
+    <color name="hint">#00000000</color>
+    <color name="zhou_normal">#00000000</color>
+    <color name="zhou_pressed">#03a9f4</color>
+    <color name="warnBg">#72AAFF</color>
+
+    <color name="roadblackgray">#ffE3EDEF</color>
+
+    <color name="attention">#EA9518</color>
+    <color name="Disattention">#707070</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#fffffc</color>
+</resources>
